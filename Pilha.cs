@@ -2,7 +2,7 @@ using System.Net.NetworkInformation;
 using System;
 
 
-namespace Pilha
+namespace EstruPilha
 {
     public class Pilha {
         private Object[] Stack;
